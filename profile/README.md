@@ -1,4 +1,4 @@
-<img src="assets/Imago-logo.png" alt="Imago Logo" width="300"/>
+<img src="https://github.com/Imago-SDRUK/.github/raw/main/profile/assets/Imago-logo.png" alt="Imago Logo" width="300"/>
 
 # Welcome to *Imago* 🌍
 
