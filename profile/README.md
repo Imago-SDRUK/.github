@@ -1,3 +1,5 @@
+<img src="assets/Imago-logo.png" alt="Imago Logo" width="300"/>
+
 # Welcome to *Imago* 🌍
 
 *Imago* is disrupting the status quo by proposing an SDR UK Data Service that transforms the usability, utility, and usage of satellite imagery. This reimagining of data access and insight aims to revolutionise how we understand and address urgent challenges facing the UK—particularly those related to environmental vulnerability, urban development and housing, and health and wellbeing.
