@@ -1,4 +1,6 @@
-<img src="https://github.com/Imago-SDRUK/.github/raw/main/profile/assets/Imago-logo.png" alt="Imago Logo" width="300"/>
+
+<img width="197" height="101" alt="Screenshot 2025-08-19 at 20 22 20" src="https://github.com/user-attachments/assets/29fccc54-f607-45a5-93db-cbade680daad" />
+
 
 # Welcome to *Imago* 🌍
 
