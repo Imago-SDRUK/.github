@@ -1,5 +1,6 @@
 
-<img width="197" height="101" alt="Screenshot 2025-08-19 at 20 22 20" src="https://github.com/user-attachments/assets/29fccc54-f607-45a5-93db-cbade680daad" />
+
+<img width="648" height="296" alt="Screenshot 2025-08-19 at 20 24 13" src="https://github.com/user-attachments/assets/36971426-7d51-40e0-9b54-21fcda555489" />
 
 
 # Welcome to *Imago* 🌍
