@@ -7,4 +7,4 @@
 - ☎️ Join an upcoming [event](https://imago.ac.uk/events)
 - 🔍 Explore more on our [website](https://imago.ac.uk/)
 - 📬 Subscribe to our newsletter — coming soon!
-- 💼 Connect with us on [LinkedIn](https://www.linkedin.com/company/imago-uk)
+- 💼 Connect with us on [LinkedIn](https://www.linkedin.com/company/sdr-imago)
